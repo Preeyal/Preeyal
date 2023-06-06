@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Preeyal
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning DSA and web development
-- 💞️ I’m looking to collaborate on any web development projects
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Python and Tableau
+- 💞️ I’m well versed in MS excel ,SQL and will be updating my data analytics projcts in the nearest future.
 
 
 <!---
