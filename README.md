@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Preeyal
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python and Tableau
-- 💞️ I’m well versed in MS excel ,SQL and will be updating my data analytics projcts in the nearest future.
+##Hello fellow engineers!
+Preeyal is the owner of this account.
+- 👋 I'm Data Enthusiast
+- 👀 I’m currently working on Data Analytics Projects
+- 🌱 Every day I learn about Tableau & Microsoft Excel
+- 💞️ Open for collaboration 
 
 
 <!---
